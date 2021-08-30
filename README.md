@@ -1,4 +1,7 @@
-## Krishan Kant Mehra
+## 
+  # krishan kant mehra
+  # I am a student at IIT(ISM) dhanbad
+  # can i join
 
 You can use the [editor on GitHub](https://github.com/krishankantmehra/krishankantmehra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
