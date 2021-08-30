@@ -1,7 +1,4 @@
-
-  # krishan kant mehra
-  # I am a student at IIT(ISM) dhanbad
-  # can i join
+#Krishan kant mehra [](www.https://www.publicdomainpictures.net/pictures/320000/velka/background-image.png)
 
 You can use the [editor on GitHub](https://github.com/krishankantmehra/krishankantmehra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
